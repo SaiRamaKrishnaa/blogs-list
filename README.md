@@ -8,15 +8,7 @@ In this project, let's build a **Blog List** by applying the concepts we have le
 </div>
 <br/>
 
-### Design Files
 
-<details>
-<summary>Click to view</summary>
-
-- [Extra Small (Size < 576px), Small (Size >= 576px), Medium (Size >= 768px)](https://assets.ccbp.in/frontend/content/react-js/routing-practice-blog-list-sm-output-v2.png)
-- [Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/routing-practice-blog-list-lg-output.png)
-
-</details>
 
 ### Set Up Instructions
 
