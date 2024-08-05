@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+* {
+  box-sizing: border-box;
+}
+
+.blog-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  padding: 10px;
+}
+.blog-item-details-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.blog-item-details-title {
+  font-size: 30px;
+}
+
+.blog-item-details-published-date {
+  font-size: 30px;
+}
+
+.blog-item-description {
+  font-size: 20px;
+}
