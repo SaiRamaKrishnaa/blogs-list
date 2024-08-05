@@ -54,16 +54,6 @@ The app must have the following functionalities
 <summary>Implementation Files</summary>
 <br/>
 
-Use these files to complete the implementation:
-
-- `src/components/Home/index.js`
-- `src/components/BlogList/index.js`
-- `src/components/BlogList/index.css`
-- `src/components/BlogItem/index.js`
-- `src/components/BlogItem/index.css`
-- `src/components/UserInfo/index.js`
-- `src/components/UserInfo/index.css`
-</details>
 
 ### Important Note
 
