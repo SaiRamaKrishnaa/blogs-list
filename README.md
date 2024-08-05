@@ -50,9 +50,7 @@ The app must have the following functionalities
 
 </details>
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
+
 
 
 ### Important Note
